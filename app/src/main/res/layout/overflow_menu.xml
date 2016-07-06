@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (C) 2012 The Android Open Source Project
+ 
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF000000"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/tool_palette_gutter"
+    android:paddingLeft="@dimen/tool_palette_gutter">
+
+    <Button
+        android:id="@+id/share"
+        style="@style/ActionBar.MenuItem"
+        android:contentDescription="share drawing"
+        android:onClick="clickShare"
+        android:src="@drawable/share"
+        android:text="Share" />
+
+    <Button
+        android:id="@+id/load"
+        style="@style/ActionBar.MenuItem"
+        android:contentDescription="load image"
+        android:onClick="clickLoad"
+        android:src="@drawable/load"
+        android:text="Load" />
+
+    <Button
+        android:id="@+id/bluetooth"
+        style="@style/ActionBar.MenuItem"
+        android:contentDescription="bluetooth connection"
+        android:onClick="clickBluetooth"
+        android:src="@drawable/ic_action_bluetooth"
+        android:text="Bluetooth" />
+
+    <Button
+        android:id="@+id/debug"
+        style="@style/ActionBar.MenuItem"
+        android:contentDescription="debug mode"
+        android:onClick="clickDebug"
+        android:src="@drawable/doodlebug"
+        android:text="Debug" />
+
+    <Button
+        android:id="@+id/about"
+        style="@style/ActionBar.MenuItem"
+        android:contentDescription="about markers"
+        android:onClick="clickAbout"
+        android:text="About" />
+</LinearLayout>

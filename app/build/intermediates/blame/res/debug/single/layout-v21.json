@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\feature_icon.xml",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\layout-v21\\feature_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_device_selection.xml",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\layout-v21\\fragment_device_selection.xml"
+    }
+]

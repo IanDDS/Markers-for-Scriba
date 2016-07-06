@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\stax\stax\1.2.0\c434800de5e4bbe1822805be5fb1c32d6834f830\stax-1.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c434800de5e4bbe1822805be5fb1c32d6834f830">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\stax-1.2.0_eb291a265b3e39b9c4558ec1563bfcd3b2173837\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_08c4926f5b3a8c507ba2b01aa973f7ac1758e984\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.3.0_cbee6be7f6f24dd57eb61769722051780fd594b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b0dd15c8ad07a7b5c92bc82cce70909b2973daf8">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0cc97ac80a06578a1506478560acb1d7b9e0da9a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_64af232df50dabb70a941ea225838093860c9413\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android\log\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09fe5b28a21fba9348128dfd390d9c6cf7a4fcbd">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\no.nordicsemi.android-log-2.0.0_4a66e700ac4a25493c6114179b7e25da1577f2fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3fd54d9d973e0536fce777e2fe2e667706dcace4">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4d7e5c47694f68c884109bac1c7cf995957bc9d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_5619c21bc86df2ddf6f748e3c566e552823c00ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.3.0_83ed1342282c7e0f4d189877235c483251d09165\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\simple-xml-2.7.1_17b8f263e826002a29d588bcefb659363bfa5c14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_71591d256343130dc1cc63c082008ff982267229\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_93e9f5939fa8e50f7dcf8922887c0ad4ad8b0985\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android\dfu\0.6.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6487f1efd2409eb8995fe25e3bbe1933b1fca2d6">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\no.nordicsemi.android-dfu-0.6.1_a3eb8229d0e383d50385b1281557b71732431146\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android.support.v18\scanner\0.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="564665effcb7a36a56bf71ddf048c350d4dee4ea">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\no.nordicsemi.android.support.v18-scanner-0.1.1_ce4a6ffe6c7feb9650a0a3af261103c628d00412\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_9073da5179d5ab357ec8161386e08673f40aa15f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\jars\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7a11a79d14d04f5c69b66a842c899c32734281cd">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\achartengine-1.1.0_651dc22e5ff4ff422cdbc75a5d5a1dfcb7a89499\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_92299cdee4e24b881a659b5e7894f8ba8ceb46f7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.3.0_62a536bf665f4435cffb697a0c9407df622ba861\classes.dex" />
+    </item>
+
+</items>

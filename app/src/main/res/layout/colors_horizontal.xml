@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (C) 2012 The Android Open Source Project
+ 
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:markers="http://schemas.android.com/apk/res-auto"
+        style="@style/ActionBar.Bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:id="@+id/colors"
+        android:paddingTop="@dimen/tool_palette_gutter"
+        >
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF000000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFFFFFF"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#00000000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>    
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF404040"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF808080"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFC0C0C0"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+
+        <!-- red, green, blue -->    
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF800000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFF0000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFF8080"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF008000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF00FF00"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF80FF80"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF000080"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF0000FF"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF8080FF"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+
+        <!-- yellow, orange, purple -->
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF808000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFFFF00"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFFFF80"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF804000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFF8000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFFCC80"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF800040"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFF0080"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFFF80CC"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF400080"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF8000FF"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFCC80FF"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+            
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF402000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FF804000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+               
+            <view
+                class="com.google.android.apps.markers.ToolButton$SwatchButton"
+                markers:colours="#FFCCAA80"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+</LinearLayout>

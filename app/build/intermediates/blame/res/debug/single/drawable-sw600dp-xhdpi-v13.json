@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-xhdpi-v13\\nordic_logo.png",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\drawable-sw600dp-xhdpi-v13\\nordic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-xhdpi-v13\\scriba_logo.png",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\drawable-sw600dp-xhdpi-v13\\scriba_logo.png"
+    }
+]

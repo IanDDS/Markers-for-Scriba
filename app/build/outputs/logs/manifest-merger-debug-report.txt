@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:16:1-47:12
+	package
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:16:70-111
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:16:137-164
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:16:112-136
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:17:5-72
+MERGED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:29:5-31:41
+MERGED from [com.google.android.gms:play-services-wearable:8.3.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.3.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [no.nordicsemi.android.support.v18:scanner:0.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android.support.v18\scanner\0.1.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [no.nordicsemi.android:log:2.0.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android\log\2.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [markers-master:common:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\common\unspecified\AndroidManifest.xml:28:5-30:41
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [no.nordicsemi.android:dfu:0.6.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android\dfu\0.6.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:17:15-44
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:17:45-70
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:18:5-80
+MERGED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:18:22-78
+supports-screens
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:20:5-50
+MERGED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:39:5-51
+	android:anyDensity
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:20:23-48
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:23:5-89
+MERGED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:23:63-87
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:23:19-62
+application
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:25:5-46:19
+MERGED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:49:5-90:19
+MERGED from [com.google.android.gms:play-services-wearable:8.3.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [no.nordicsemi.android:log:2.0.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android\log\2.0.0\AndroidManifest.xml:11:5-53
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:25:18-50
+	android:hardwareAccelerated
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:25:117-151
+	android:fullBackupContent
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:51:9-41
+	android:icon
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:25:51-91
+	android:largeHeap
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:25:92-116
+	android:allowBackup
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:50:9-35
+	android:theme
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:53:9-40
+activity#com.google.android.apps.markers.SplashActivity
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:29:13-55
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:27:19-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.google.android.apps.markers.MarkersActivity
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:36:82-114
+	android:configChanges
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:36:115-161
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:36:19-81
+intent-filter#android.intent.action.EDIT+android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:37:13-42:29
+action#android.intent.action.EDIT
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:38:25-66
+action#android.intent.action.SEND
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:39:25-66
+data
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:40:17-51
+	android:mimeType
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:40:23-49
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:41:17-75
+	android:name
+		ADDED from C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\src\main\AndroidManifest.xml:41:27-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:34:5-68
+MERGED from [markers-master:common:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\common\unspecified\AndroidManifest.xml:32:5-68
+MERGED from [no.nordicsemi.android:dfu:0.6.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android\dfu\0.6.1\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:35:5-74
+MERGED from [markers-master:common:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\common\unspecified\AndroidManifest.xml:33:5-74
+MERGED from [no.nordicsemi.android:dfu:0.6.1] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\no.nordicsemi.android\dfu\0.6.1\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:36:22-78
+uses-permission#no.nordicsemi.android.LOG
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:37:22-62
+uses-feature#android.hardware.bluetooth_le
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:45:5-47:35
+	android:required
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:47:9-32
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:46:9-53
+meta-data#com.google.android.gms.version
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:54:9-56:69
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:55:13-58
+activity#no.nordicsemi.android.scriba.MarkersActivity
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:58:9-70:20
+	android:label
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:61:13-45
+	android:configChanges
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:60:13-59
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:59:13-72
+activity#no.nordicsemi.android.scriba.hrs.HRSActivity
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:78:9-89:20
+	android:label
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:81:13-35
+	android:launchMode
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:82:13-48
+	android:icon
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:80:13-53
+	android:theme
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:79:13-72
+intent-filter#android.intent.action.MAIN+no.nordicsemi.android.nrftoolbox.LAUNCHER
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:84:13-88:29
+category#no.nordicsemi.android.nrftoolbox.LAUNCHER
+ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:87:17-86
+	android:name
+		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Downloads\Android-nRF-Toolbox-master\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:87:27-83
