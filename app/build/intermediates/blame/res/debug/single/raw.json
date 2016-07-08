@@ -1,7 +1,51 @@
 [
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs_s110_v6_0_0.hex",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_rscs_s110_v6_0_0.hex"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v8_0_0_sdk_v8_0.zip",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v8_0_0_sdk_v8_0.zip"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blinky_s110_v7_1_0_ext_init.dat",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\blinky_s110_v7_1_0_ext_init.dat"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs_s110_v6_0_0.hex",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_rscs_s110_v6_0_0.hex"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dfu_win_3_1.bat",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\dfu_win_3_1.bat"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blinky_s110_v7_1_0.hex",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\blinky_s110_v7_1_0.hex"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_s110_v7_0_0.hex",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_s110_v7_0_0.hex"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_all_in_one_sdk_v9_0.zip",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_all_in_one_sdk_v9_0.zip"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dfu_win_3_1.bat",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\dfu_win_3_1.bat"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v7_1_0.hex",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v7_1_0.hex"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\readme.txt",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\readme.txt"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dfu_mac_3_1.sh",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\dfu_mac_3_1.sh"
     },
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blinky_arm_s110_v7_0_0.hex",
@@ -16,16 +60,20 @@
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\blinky_s110_v7_1_0_ext_init.dat"
     },
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs_s110_v7_0_0.hex",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_rscs_s110_v7_0_0.hex"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_s110_v6_0_0.hex",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_s110_v6_0_0.hex"
     },
     {
-        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs_s110_v6_0_0.hex",
-        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_rscs_s110_v6_0_0.hex"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blinky_arm_s110_v7_0_0.hex",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\blinky_arm_s110_v7_0_0.hex"
     },
     {
-        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dfu_win_3_1.bat",
-        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\dfu_win_3_1.bat"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v8_0_0_sdk_v9_0.zip",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v8_0_0_sdk_v9_0.zip"
     },
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_s110_v7_0_0.hex",
@@ -36,6 +84,14 @@
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v7_1_0_ext_init.dat"
     },
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_s110_v6_0_0.hex",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_s110_v6_0_0.hex"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v7_1_0_ext_init.dat",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v7_1_0_ext_init.dat"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v8_0_0_sdk_v9_0.zip",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v8_0_0_sdk_v9_0.zip"
     },
@@ -44,16 +100,20 @@
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\dfu_mac_3_1.sh"
     },
     {
-        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v7_1_0.hex",
-        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v7_1_0.hex"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blinky_s110_v7_1_0.hex",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\blinky_s110_v7_1_0.hex"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\readme.txt",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\readme.txt"
     },
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_rscs_s110_v7_0_0.hex",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_rscs_s110_v7_0_0.hex"
     },
     {
-        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blinky_s110_v7_1_0.hex",
-        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\blinky_s110_v7_1_0.hex"
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v7_1_0.hex",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\raw\\ble_app_hrs_dfu_s110_v7_1_0.hex"
     },
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ble_app_hrs_dfu_s110_v8_0_0_sdk_v8_0.zip",

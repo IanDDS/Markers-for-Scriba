@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\menu\\help.xml"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings_and_about.xml",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\menu\\settings_and_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings_and_about.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\menu\\settings_and_about.xml"
     },
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",

@@ -63,7 +63,7 @@
 
     <com.google.android.apps.markers.LogoView
         android:id="@+id/logo"
-        android:src="@drawable/splash_launcher"
+        android:src="@drawable/app_icon"
         android:layout_width="@dimen/action_bar_logo_width"
         android:layout_height="@dimen/action_bar_height"
         android:padding="2dp"

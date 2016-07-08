@@ -16,6 +16,14 @@
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\checks_light.png"
     },
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\checks_small_dark.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\checks_small_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\fountainpen.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\fountainpen.png"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\airbrush_dark.png",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\airbrush_dark.png"
     },
@@ -28,16 +36,52 @@
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\uncledan_save.png"
     },
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\circle_1bpp.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\circle_1bpp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\zoom.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\drawable-nodpi-v4\\zoom.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\airbrush_dark.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\airbrush_dark.png"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\zoom.png",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\drawable-nodpi-v4\\zoom.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\uncledan_save.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\uncledan_save.png"
     },
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\uncledan.png",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\uncledan.png"
     },
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\checks_light.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\checks_light.png"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\circle.png",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\airbrush_light.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\airbrush_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\circle.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\uncledan.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\uncledan.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\grabber.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-nodpi\\grabber.png"
     },
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\grabber.png",
