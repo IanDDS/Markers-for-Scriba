@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\drawable-xhdpi-v4\\ic_uart_feature.png"
     },
     {
-        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\markers400new.png",
-        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\drawable-xhdpi\\markers400new.png"
-    },
-    {
         "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_uart_rewind_small.png",
         "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\drawable-xhdpi-v4\\ic_uart_rewind_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\markers400new.png",
+        "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\drawable-xhdpi\\markers400new.png"
     },
     {
         "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
@@ -166,6 +166,10 @@
     {
         "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_uart_left_small.png",
         "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\drawable-xhdpi-v4\\ic_uart_left_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_icon.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
     },
     {
         "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",

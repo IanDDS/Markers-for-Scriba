@@ -46,33 +46,37 @@
 
 		<!-- The size of text below must be fixed, therefore dp are used instead of sp -->
 
-		<TextView
-			android:id="@+id/battery"
+		<RelativeLayout
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:layout_alignParentLeft="true"
-			android:layout_marginLeft="@dimen/feature_horizontal_margin"
-			android:layout_marginTop="@dimen/feature_device_name_margin_top"
-			android:background="@drawable/battery"
-			android:freezesText="true"
-			android:gravity="center"
-			android:text="@string/not_available"
-			android:textColor="#FFFFFF"
-			android:textSize="12sp"/>
+			android:layout_centerHorizontal="true">
+			<TextView
+				android:id="@+id/battery"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="@dimen/feature_device_name_margin_top"
+				android:background="@drawable/battery"
+				android:freezesText="true"
+				android:gravity="center"
+				android:text="@string/not_available"
+				android:textColor="#FFFFFF"
+				android:textSize="12sp"/>
 
-		<no.nordicsemi.android.scriba.widget.TrebuchetTextView
-			android:id="@+id/device_name"
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_marginLeft="10dp"
-			android:layout_marginTop="@dimen/feature_device_name_margin_top"
-			android:layout_toRightOf="@+id/battery"
-			android:ellipsize="end"
-			android:freezesText="true"
-			android:maxLines="1"
-			android:text="@string/hrs_default_name"
-			android:textAllCaps="true"
-			android:textAppearance="?android:attr/textAppearanceLarge"/>
+			<no.nordicsemi.android.scriba.widget.TrebuchetTextView
+				android:id="@+id/device_name"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="10dp"
+				android:layout_marginTop="@dimen/feature_device_name_margin_top"
+				android:layout_toRightOf="@+id/battery"
+				android:ellipsize="end"
+				android:freezesText="true"
+				android:maxLines="1"
+				android:text="@string/hrs_default_name"
+				android:textAllCaps="true"
+				android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+		</RelativeLayout>
 
 		<no.nordicsemi.android.scriba.widget.TrebuchetTextView
 			android:id="@+id/text_hrs_value"
@@ -140,7 +144,7 @@
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 			android:layout_centerHorizontal="true"
-			android:layout_marginTop="40dp"
+			android:layout_marginTop="45dp"
 			android:onClick="onConnectClicked"
 			android:text="@string/action_connect"/>
 

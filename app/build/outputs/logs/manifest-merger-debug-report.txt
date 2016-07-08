@@ -82,13 +82,13 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ian C\Documents\Git
 	android:label
 		ADDED from C:\Users\Ian C\Documents\GitHub\markers-master\app\src\main\AndroidManifest.xml:25:18-50
 	android:hardwareAccelerated
-		ADDED from C:\Users\Ian C\Documents\GitHub\markers-master\app\src\main\AndroidManifest.xml:25:117-151
+		ADDED from C:\Users\Ian C\Documents\GitHub\markers-master\app\src\main\AndroidManifest.xml:25:110-144
 	android:fullBackupContent
 		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Documents\GitHub\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:51:9-41
 	android:icon
-		ADDED from C:\Users\Ian C\Documents\GitHub\markers-master\app\src\main\AndroidManifest.xml:25:51-91
+		ADDED from C:\Users\Ian C\Documents\GitHub\markers-master\app\src\main\AndroidManifest.xml:25:51-84
 	android:largeHeap
-		ADDED from C:\Users\Ian C\Documents\GitHub\markers-master\app\src\main\AndroidManifest.xml:25:92-116
+		ADDED from C:\Users\Ian C\Documents\GitHub\markers-master\app\src\main\AndroidManifest.xml:25:85-109
 	android:allowBackup
 		ADDED from [markers-master:appsdk:unspecified] C:\Users\Ian C\Documents\GitHub\markers-master\app\build\intermediates\exploded-aar\markers-master\appsdk\unspecified\AndroidManifest.xml:50:9-35
 	android:theme

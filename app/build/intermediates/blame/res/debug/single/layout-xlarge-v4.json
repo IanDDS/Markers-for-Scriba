@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\main.xml",
         "source": "C:\\Users\\Ian C\\Downloads\\Android-nRF-Toolbox-master\\markers-master\\app\\src\\main\\res\\layout-xlarge\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_feature_hrs.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\exploded-aar\\markers-master\\appsdk\\unspecified\\res\\layout-xlarge-v4\\activity_feature_hrs.xml"
     }
 ]

@@ -80,6 +80,10 @@
         "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-xxxhdpi\\markers400.png"
     },
     {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app_icon.png",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-xxxhdpi\\app_icon.png"
+    },
+    {
         "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\splash_launcher.png",
         "source": "C:\\Users\\Ian C\\Documents\\GitHub\\markers-master\\app\\src\\main\\res\\drawable-xxxhdpi\\splash_launcher.png"
     },
